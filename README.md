@@ -3,7 +3,8 @@
 <h5> 💫<i> #desenvolvimentoweb, #arduino, #games e #tecnologia </i></h5>
 
 ##
-
+<div target="_blank" rel="noopener noreferrer">
+  
 ## GitHub Stats
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/augusto.pisa)
 [![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-pisa/)
