@@ -1,4 +1,4 @@
-## Seja bem vindo ao meu perfil do <img align="center" alt="github-logo" height="30" width="120" src = "https://user-images.githubusercontent.com/126973782/227750793-ac1498d0-8247-4b29-a6f5-46bdd28d26e8.png">
+## Seja bem vindo ao meu perfil do <img align="center" alt="github-logo" height="30" width="120" src = "https://user-images.githubusercontent.com/126973782/227751059-c163cb92-539e-4e4b-8557-b922c7ff4d23.png">
 
 <h5> 💫<i> #desenvolvimentoweb, #arduino, #games e #tecnologia </i></h5>
 
