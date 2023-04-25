@@ -1,4 +1,4 @@
-## Seja bem vindo ao meu GitHub..
+## Seja bem vindo ao meu GitHub...
 
 <h5> 💫<i> #desenvolvimentoweb, #arduino, #games e #tecnologia </i></h5>
 
