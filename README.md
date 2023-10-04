@@ -1,6 +1,6 @@
 ## Seja bem vindo ao meu GitHub...
 
-<h5> 💫<i> #desenvolvimentoweb, #arduino, #games e #tecnologia </i></h5>
+<h5> 💫<i> #desenvolvimentoweb, #games e #tecnologia </i></h5>
 
 ##
 <div>
