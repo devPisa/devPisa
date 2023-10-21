@@ -1,4 +1,4 @@
-## Welcome to my GitHub...
+## Bem vindo ao meu GitHub!
 
 <h5> 💫<i> #desenvolvimentoweb, #games #tecnologia e #hardware </i></h5>
 
@@ -39,9 +39,4 @@
   <i> A diferença entre o louco e o gênio é o resultado </i>.
   
   </div>
-
-<script src="https://tarptaeya.github.io/repo-card/repo-card.js"></script>
-
-<div class="repo-card" data-repo="devPisa/git-github"></div>
-<div class="repo-card" data-repo="devPisa/projeto-java"></div>
   
