@@ -13,7 +13,7 @@
 
 </div>
 
-<div>
+<div align="center" style="display: inline_block>
 
 ## Connect with me
   
@@ -31,9 +31,9 @@
 
 ### Tech and Hobbies
 
-<img align="center" alt="Ally-HTML" height="30" width="70" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+<img align="center" alt="Ally-HTML" height="30" width="80" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 <img align="center" alt="Ally-CSS" height="30" width="80" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-<img align="center" alt="Ally-JS" height="30" width="80" src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascrip">
+<img align="center" alt="Ally-JS" height="30" width="100" src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascrip">
 <img align="center" alt="Ally-Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 <img align="center" alt="Ally-HTML" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
 
