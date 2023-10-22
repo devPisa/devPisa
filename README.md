@@ -23,7 +23,7 @@
 
 </div>
 
-##
+ ##
 
 <div  align="center" style="display: inline_block">
 
@@ -35,9 +35,10 @@
 <img align="center" alt="Ally-Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 <img align="center" alt="Ally-HTML" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
 
-</div>
-  
+</div style="display: inline_block">
+
   ##
+  
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=devPisa&repo=login-screen&icons=true&theme=monokai)
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=devPisa&repo=prot-tipo_v1&icons=true&theme=monokai)
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=devPisa&repo=projeto-java&icons=true&theme=monokai)
