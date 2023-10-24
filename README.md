@@ -2,7 +2,7 @@
 
 <h5> 💫<i> #desenvolvimentoweb, #games #tecnologia e #hardware </i></h5>
 
-[![DIO PROFILE](https://img.shields.io/badge/DIO%20PROFILE-8A2BE2)](https://web.dio.me/users/cesar_au563/?tab=achievements)
+[![DIO PROFILE](https://img.shields.io/badge/DIO%20PROFILE-8A2BE2)](https://www.dio.me/users/cesar_au563)
 
 
 ##
