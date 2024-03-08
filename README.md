@@ -1,53 +1,43 @@
-## Bem vindo ao meu GitHub...
+<h1 align="center">Olá 👋, Eu sou o Cesar Pisa</h1>
 
-<h5> 💫<i> #desenvolvimentoweb, #games #tecnologia e #hardware </i></h5>
+<h3 align="center">Cada projeto conta uma história única, e eu sou um contador de histórias.</h3>
 
-[![DIO PROFILE](https://img.shields.io/badge/DIO%20PROFILE-8A2BE2)](https://www.dio.me/users/cesar_au563)
+<img align="right" alt= "Coding" width="350" src="https://camo.githubusercontent.com/0eda36005abd9bf7e72584afc2f6ef1e808a357cb65a07fc2fe5036ba5268df7/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devpisa&label=Profile%20views&color=0e75b6&style=flat" alt="devpisa" /> </p>
+
+- 🔭 Atualmente estou trabalhando no projeto **SAGA.🍃🍃**
+
+- 🌱 Estou estudando **Java Spring e MVC Architeture.**
+
+- 📫 Me encontre: **cesar.au563@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/devpisa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devpisa" height="30" width="40" /></a>
+<a href="https://discord.gg/341789782076162068" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cesar.pisa" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devpisa&show_icons=true&locale=en&layout=compact" alt="devpisa" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devpisa&show_icons=true&locale=en" alt="devpisa" /></p>
 
 
-##
-<div>
-  
-## GitHub Stats
-![devPisa GitHub stats](https://github-readme-stats.vercel.app/api?username=devPisa&show_icons=true&theme=monokai&hide_border)
 
-</div>
 
-<div>
 
-## Conecte-se comigo
-  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/augusto.pisa)
-[![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devpisa)
-[![BuyMeaCoffe](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/devPisa)<br/>
-
-</div>
-
- ##
-
-<div  align="center" style="display: inline_block">
-
-### Tech and Hobbies
-
-<img align="center" alt="Ally-HTML" height="30" width="80" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-<img align="center" alt="Ally-CSS" height="30" width="80" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-<img align="center" alt="Ally-JS" height="30" width="100" src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascrip">
-<img align="center" alt="Ally-Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-<img align="center" alt="Ally-HTML" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-
-</div style="display: inline_block">
-
-  ##
-  
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=devPisa&repo=login-screen&icons=true&theme=monokai)
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=devPisa&repo=prot-tipo_v1&icons=true&theme=monokai)
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=devPisa&repo=projeto-java&icons=true&theme=monokai)
-
-  
-<div align="center">
-  
-  <i> A diferença entre o louco e o gênio é o resultado </i>.
-  
-  </div>
-  
   
