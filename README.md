@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Eu sou o **<i>&lt;Cesar Pisa/&gt;</i>**!</h1>
+<h1 align="center">Olá 👋, Eu sou o <i>&lt;Cesar Pisa/&gt;</i>!</h1>
 
 <h3 align="center">Cada projeto conta uma história única, e eu sou um contador de histórias.</h3>
 
