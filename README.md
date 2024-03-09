@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Eu sou o Cesar Pisa</h1>
+<h1 align="center">Olá 👋, Eu sou o **<i>&lt;Cesar Pisa/&gt;</i>**!</h1>
 
 <h3 align="center">Cada projeto conta uma história única, e eu sou um contador de histórias.</h3>
 
@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devpisa&label=Profile%20views&color=0e75b6&style=flat" alt="devpisa" /> </p>
 
-- 🔭 Atualmente estou trabalhando no projeto **SAGA.🍃🍃**
+- 🔭 Atualmente estou trabalhando no projeto **SAGA.🍃**
 
 - 🌱 Estou estudando **Java Spring e MVC Architeture.**
 
